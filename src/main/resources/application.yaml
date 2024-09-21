@@ -1,0 +1,3 @@
+spring.application.name: production-calendar-provider
+server.port: 8081
+provider.source.sj.url: "https://www.superjob.ru/proizvodstvennyj_kalendar"
